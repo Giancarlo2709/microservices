@@ -46,7 +46,7 @@ public class ProductController {
 		product.setPort(port);
 		
 		/*try {
-			Thread.sleep(1000L);
+			Thread.sleep(10000L);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
